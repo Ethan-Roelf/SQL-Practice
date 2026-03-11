@@ -1,5 +1,5 @@
 -- Question 1
-SELECT DISTINCT(title) FROM film;
+SELECT DISTINCT(title) FROM film; 
 
 -- Question 2
 SELECT first_name, last_name, email FROM customer WHERE active = 0;
