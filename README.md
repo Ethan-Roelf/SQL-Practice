@@ -1,5 +1,7 @@
 # SQL
-All SQL Practice I have done.
+All SQL Practice I have done. 
+
+**NB: Every query was written with the Database Engine Order Of Execution in consideration. You can therefore expect every query to be in its most optimized format**
 
 MOVIE_RENTAL_PROJECT TOPICS:
 - Joins
